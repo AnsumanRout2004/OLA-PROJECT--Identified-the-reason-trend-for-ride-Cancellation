@@ -1,4 +1,5 @@
-🚖 OLA Ride Cancellation Analysis using Power BI
+🚕 OLA Data Analytics Project – Identified the reason & trend for ride cancellation
+ Analysis using Power BI
 📌https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/edit/main/README.md 
 
 
@@ -67,17 +68,6 @@ Special Rules:
 Incomplete rides kept <6%
 
 Booking value & volume spike on weekends and match days
-
-🧮 SQL Queries
-The project included multiple SQL views for deeper analysis:
-
-
-
-
-
-
-📷 Dashboard Preview
-
 
 🚀 Why This Project Stands Out?
 🔹 Real-time Cancellation Analysis – Explore dynamic causes for cancellations
