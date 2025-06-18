@@ -4,6 +4,8 @@
 https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png
 
 📷 Dashboard Preview
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
+
 
 
 OLA Power BI Ride Cancellation Project
