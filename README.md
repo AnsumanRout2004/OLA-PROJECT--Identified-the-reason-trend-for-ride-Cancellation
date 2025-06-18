@@ -6,13 +6,13 @@
 📷 Dashboard Preview
 ![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001659.png )
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001728.png )
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001748.png )
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001818.png )
 
 
 OLA Power BI Ride Cancellation Project
